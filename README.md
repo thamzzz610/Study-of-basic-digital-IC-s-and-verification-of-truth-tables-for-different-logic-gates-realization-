@@ -2,7 +2,7 @@
 
 ## ROLL NO: 23004843
 
-## EXPERIMENT NO 1
+## EXPERIMENT NO 1 verification of truth tables for different loic gates and realizaation using verilog
 Study of basic digital IC s and verification of truth tables for different logic gates realization
 
 ## AIM:
